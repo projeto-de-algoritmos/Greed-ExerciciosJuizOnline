@@ -1,45 +1,54 @@
-**!! Atenção: Renomeie o seu repositório para (Tema)_(NomeDoProjeto). !!** 
+# Exercícios Resolvidos de Juiz Online
 
 Temas:
- - Grafos1
- - Grafos2
- - PD
- - D&C
- - Greed
- - Final 
- 
- **!! *Não coloque os nomes dos alunos no título do repositório*. Exemplo de título correto: Grafos2_Labirinto-do-Minotauro !!**
- 
- (Apague essa seção)
 
-# NomedoProjeto
-
-**Número da Lista**: X<br>
-**Conteúdo da Disciplina**: XXXXXXXXXX<br>
+- Greed
 
 ## Alunos
-|Matrícula | Aluno |
-| -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
 
-## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+| Matrícula  | Aluno                       |
+| ---------- | --------------------------- |
+| 19/0085045 | Brenno da Silva Oliveira    |
+| 19/0087501 | Gabriel Marcolino Rodrigues |
+
+## Sobre
+
+Resolução dos exercícios do Beecrowd e LeetCode.
+
+> [1084 - Apagando e Ganhando](https://www.beecrowd.com.br/repository/UOJ_1084.html)<br> 
+> [1029. Two City Scheduling](https://leetcode.com/problems/two-city-scheduling/)<br> 
+> []()<br> 
+> []()
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
 
-## Instalação 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
+![1084 - Apagando e Ganhando](1084/1084.png)
 
-## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
+## Instalação
 
-## Outros 
+**Linguagem**: C
+
+## Uso
+
+Para rodar os exercícios basta clonar o respositório
+
+    git clone git@github.com:projeto-de-algoritmos/Greed-ExerciciosJuizOnline.git
+
+E executar os seguintes comandos dentro da pasta do arquivo pelo terminal:
+
+    gcc -o nome_arquivo nome_arquivo.c
+
+<br>
+
+    ./nome_arquivo.exe < nome_arquivo.txt
+
+Outra forma é subtmeter os códigos dos exercícios pelo juiz online:
+
+- [1084 - Apagando e Ganhando](https://www.beecrowd.com.br/judge/pt/problems/view/1084)
+- []()
+- []()
+- []()
+
+## Outros
+
 Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
-
-
-
-
