@@ -18,12 +18,13 @@ Resolução dos exercícios do Beecrowd e LeetCode.
 > [1084 - Apagando e Ganhando](https://www.beecrowd.com.br/repository/UOJ_1084.html)<br> 
 > [1029 - Two City Scheduling](https://leetcode.com/problems/two-city-scheduling/)<br> 
 > [881 - Boats to Save People](https://leetcode.com/problems/boats-to-save-people/description/?envType=list&envId=50f6p33i)<br> 
-> []()
+> [134 - Gas Station](https://leetcode.com/problems/gas-station/description/?envType=list&envId=50f6p33i)
 
 ## Screenshots
 
 ![1084 - Apagando e Ganhando](1084/1084.png)
 ![881 - Boats to Save People](881/881.PNG)
+![134 - Gas Station](134/134.PNG)
 
 ## Instalação
 
@@ -47,7 +48,7 @@ Outra forma é subtmeter os códigos dos exercícios pelo juiz online:
 
 - [1084 - Apagando e Ganhando](https://www.beecrowd.com.br/judge/pt/problems/view/1084)
 - [881 - Boats to Save People](https://leetcode.com/problems/boats-to-save-people/description/?envType=list&envId=50f6p33i)<br>
-- []()
+- [134 - Gas Station](https://leetcode.com/problems/gas-station/description/?envType=list&envId=50f6p33i)
 - []()
 
 ## Outros
