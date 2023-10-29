@@ -63,4 +63,4 @@ Outra forma é subtmeter os códigos dos exercícios pelo juiz online:
 
 ## Outros
 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
+[Vídeo de apresentação](https://youtu.be/SWx4sa74Tkw)
